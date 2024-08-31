@@ -1,0 +1,71 @@
+
+Topics:
+
+  Operators:
+
+    Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 ( remainder) )
+    Assignment: =
+    compariason: >, <, >=, <=, !=, ==, ===    all return boolean
+    Logical: !(not), &&, ||
+
+      ! --> reverse the truthy -> false & vice versa
+
+      // && - all condition should be true for truthy value else false
+      // || - any condition should true for a truthy value else false
+
+      truthy/falsy -> 
+        number anything except 0 evaluates to true value
+        string anything except '' evalutes to true value
+
+        0, '', null, undefined - falsy values
+
+    Evaluate truthy or falsy with Boolean(value) or !!value
+    Boolean: true or false
+
+  Conditional Statements:
+    if else
+    switch case
+    == vs ===
+  
+  looping, conditions, simple problems
+
+    looping: it is a process of repeating a block statements again and again
+
+    for, while, do while
+
+    how many times or when to stop the looping
+
+    concepts in looping
+    initialization, termination condition, inc/dec
+
+  Iteration:
+    iterating over an elements of composite type
+
+    iteration only on iterable - available in JS
+      for...of ( through each element ) Array
+      for...in ( through index ) // Array, Obj
+  
+  Practice Problems:
+    1. write a function isOdd to find whether the given number is odd
+    2. write a function to find the power/exponential of a number & power
+    3. Function to get the factorial of a number
+
+Next Session:
+ 4. function to print all the fibonacci number till N
+  Hoisting:
+    with scope how hoisting works
+  Arrays & Array Methods
+    Array - collection of items
+
+    Array methods - forEach, Map, filter, reducer, find, findIndex, slice, splice,
+
+  Object and JSON iteration:
+
+    what is object in JS?
+
+    JSON: JavaScript Object Notation
+
+    JSON Iteration:
+      Object.values(obj); // array of values of obj
+      Object.keys(obj); // array keys of obj
+      for...in
