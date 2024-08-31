@@ -27,7 +27,9 @@ function powerOf(num, power) {
 
 console.log(powerOf(2, 3));
 
-// factorial
+// factorial 0! - 1
+// 1 - 1
+// 2 - 2
 // 5 -> 1 * 2 * 3 * 4 * 5
 // 3 -> 1 * 2 * 3
 
