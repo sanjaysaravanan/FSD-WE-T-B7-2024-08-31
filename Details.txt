@@ -49,6 +49,9 @@ Topics:
     1. write a function isOdd to find whether the given number is odd
     2. write a function to find the power/exponential of a number & power
     3. Function to get the factorial of a number
+  
+Task:
+  Revise all the concepts
 
 Next Session:
  4. function to print all the fibonacci number till N
